@@ -17,10 +17,10 @@ Típico código para testear el hardware y la instalación del software de Ardui
 
 Para cargar el programa en la placa: **Archivo > Ejemplos > 01.Basics > Blink**. Esto cargará el código del programa Blink. Como este código es solo lectura se tiene que guardar aparte con **Archivo > Guardar como...** . Ahora se pulsa del botón de **Subir**
 
-![LED que debe parpadear](https://raw.githubusercontent.com/ccantos/AprendiendoArduino/master/1. Primer programa Blink/Captura2.PNG)
+![LED que debe parpadear](https://raw.githubusercontent.com/ccantos/AprendiendoArduino/master/1.%20Primer%20programa%20Blink/Captura2.PNG)
 
 Esto compilará el programa y lo cargará en la placa.
 
-![LED que debe parpadear](https://raw.githubusercontent.com/ccantos/AprendiendoArduino/master/1. Primer programa Blink/Captura1.PNG)
+![LED que debe parpadear](https://raw.githubusercontent.com/ccantos/AprendiendoArduino/master/1.%20Primer%20programa%20Blink/Captura1.PNG)
 
 Si parpadea el LED indicado es que todo ha ido bien.
